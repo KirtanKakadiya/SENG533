@@ -1,0 +1,7 @@
+Rows,Mean CSV Busy Time (s),Mean Idle Time (s),Mean CSV CPU Util (%),Mean CSV Mem Util (%)
+1 million,14.95,20.56,45,22
+2 million,21.63,18.98,55,31
+4 million,29.78,21.13,65,44
+6 million,37.56,20.34,75,53
+8 million,46.86,23.45,80,59
+10 million,58.54,21.56,82,65
